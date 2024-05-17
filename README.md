@@ -4,7 +4,7 @@ I am Murtaza Khachrodwala, a Software Engineer, Tech enthusiast, always keen to 
 
 ## Portfolio
 
-[![Murtaza-K](https://firebasestorage.googleapis.com/v0/b/murtaza-k.appspot.com/o/Profile.png?alt=media&token=bfaea1d9-c27d-4dbd-a709-71258578ac26)](https://murtaza-k.web.app/)
+[![Murtaza-K](https://firebasestorage.googleapis.com/v0/b/murtaza-k.appspot.com/o/Portfolio.png?alt=media&token=e971dbe7-4fdf-459f-9d71-6c243aa89f85)](https://murtaza-k.web.app/)
 
 Want to know more about me? **[Have a look!](https://murtaza-k.web.app/)**
 
